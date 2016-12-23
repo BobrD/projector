@@ -1,0 +1,7 @@
+/backend/node_modules/
+/backend/**/*.js
+/backend/**/*.js.map
+
+/frontend/node_modules/
+/frontend/**/*.js
+/frontend/**/*.js.map
